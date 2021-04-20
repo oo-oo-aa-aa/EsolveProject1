@@ -51,6 +51,8 @@ int main(int argc, char** command)
     return 0; 
 } 
 
+//New Feature
+
 
 bool isEven(int num) {
     int mask = 0b1;
